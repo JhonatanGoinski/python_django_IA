@@ -1,0 +1,7 @@
+Informações do projeto
+
+Criar duas pastas: 
+Pasta - audio_file  
+Pasta - mídia /subpasta - video
+
+Utilize sua chave da API do ChatGPT para obter sucesso em executar o script 
